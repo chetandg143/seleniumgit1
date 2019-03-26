@@ -13,6 +13,9 @@ public class Sample1 {
 	  
 	  
 	  System.out.println("Good evenig   ");
+	 
+		
+
 	}
 
 }

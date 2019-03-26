@@ -6,6 +6,10 @@ public class Sample1 {
 	{
 	 System.out.println("hi new to git hub welcom ");
 	//deelted oneline code 
+	  int a =10;
+	  int b=20;
+	  int c = a*b;
+	  System.out.println("result is :"+c);
 	}
 
 }

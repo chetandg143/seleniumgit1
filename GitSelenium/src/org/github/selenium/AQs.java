@@ -8,10 +8,8 @@ public class AQs {
 		System.out.println("good evening ");
 		
 		System.out.println("good evening ");
-		System.out.println("good ");
-		System.out.println("good  ");
-		System.out.println("good ");
-		System.out.println("good ");
+		System.out.println("zdadfsfdbgfnm ");
+		
 		
 
 	}
